@@ -12,9 +12,9 @@ module.exports = async (req, res) => {
     const TARGET_API = 'https://01k3.com/api/game/plan/recordDetails';
 
     const PAYLOAD = {
-        "id": 192,
-        "gameId": 92,
-        "websiteId": 9,
+        "id": 78,
+        "gameId": 150,
+        "websiteId": 16,
         "gameCode": 0,
         "timeCode": 4,
         "pageNo": 1,
